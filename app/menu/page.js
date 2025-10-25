@@ -181,7 +181,7 @@ export default function MenuPage() {
                   : 'bg-white text-[#1F1F1F] border-gray-200 hover:border-[#EB4B36] hover:shadow-md'
                   }`}
               >
-                <div className="font-nexa-heavy text-lg">Cone</div>
+                <div className="font-nexa-heavy text-lg">Cones</div>
                 <div className="font-niramit">KSh {gelatoPrices[gelatoSelection.size].cone}</div>
               </button>
             </div>
