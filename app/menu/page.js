@@ -103,14 +103,14 @@ export default function MenuPage() {
   return (
     <Layout>
       {/* WhatsApp Order Button - Direct to WhatsApp */}
-      <div className="w-full mb-6">
+      {/* <div className="w-full mb-6">
         <button
           onClick={handleWhatsAppOrder}
           className="bg-[#1F1F1F] text-[#EB4B36] text-center font-niramit text-lg font-bold rounded-full p-4 w-full justify-items-center transform transition-all duration-300 hover:scale-105 hover:shadow-lg shadow-md border-2 border-[#EB4B36]"
         >
           Order Now on WhatsApp
         </button>
-      </div>
+      </div> */}
 
       {/* Categories Navigation */}
       <div style={categoryListStyles}>

@@ -3,24 +3,6 @@
     "name": "Salads",
     "items": [
       {
-        "name": "Orzo Soup",
-        "description": "",
-        "price": 250,
-        "image": ""
-      },
-      {
-        "name": "Kaware3 Soup",
-        "description": "",
-        "price": 400,
-        "image": ""
-      },
-      {
-        "name": "Lentils Soup",
-        "description": "",
-        "price": 300,
-        "image": ""
-      },
-      {
         "name": "Green Salad",
         "description": "",
         "price": 200,
@@ -66,6 +48,29 @@
         "name": "Pickled Beetroot",
         "description": "",
         "price": 200,
+        "image": ""
+      }
+    ]
+  },
+  "soups": {
+    "name": "Soups",
+    "items": [
+      {
+        "name": "Orzo Soup",
+        "description": "",
+        "price": 250,
+        "image": ""
+      },
+      {
+        "name": "Kaware3 Soup",
+        "description": "",
+        "price": 400,
+        "image": ""
+      },
+      {
+        "name": "Lentils Soup",
+        "description": "",
+        "price": 300,
         "image": ""
       }
     ]
