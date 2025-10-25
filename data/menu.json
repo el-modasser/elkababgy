@@ -1,0 +1,596 @@
+{
+  "salads": {
+    "name": "Salads",
+    "items": [
+      {
+        "name": "Orzo Soup",
+        "description": "",
+        "price": 250,
+        "image": ""
+      },
+      {
+        "name": "Kaware3 Soup",
+        "description": "",
+        "price": 400,
+        "image": ""
+      },
+      {
+        "name": "Lentils Soup",
+        "description": "",
+        "price": 300,
+        "image": ""
+      },
+      {
+        "name": "Green Salad",
+        "description": "",
+        "price": 200,
+        "image": ""
+      },
+      {
+        "name": "Baba Ghanouj",
+        "description": "",
+        "price": 200,
+        "image": ""
+      },
+      {
+        "name": "Tahini Salad",
+        "description": "",
+        "price": 200,
+        "image": ""
+      },
+      {
+        "name": "Pickled Eggplant",
+        "description": "",
+        "price": 200,
+        "image": ""
+      },
+      {
+        "name": "Pickels",
+        "description": "",
+        "price": 200,
+        "image": ""
+      },
+      {
+        "name": "Yoghurt Salad",
+        "description": "",
+        "price": 200,
+        "image": ""
+      },
+      {
+        "name": "Pickled Tomatoes",
+        "description": "",
+        "price": 200,
+        "image": ""
+      },
+      {
+        "name": "Pickled Beetroot",
+        "description": "",
+        "price": 200,
+        "image": ""
+      }
+    ]
+  },
+  "appetizers": {
+    "name": "Appetizers",
+    "items": [
+      {
+        "name": "Homemade Grilled Sausage",
+        "description": "",
+        "price": 500,
+        "image": ""
+      },
+      {
+        "name": "Grilled Liver",
+        "description": "",
+        "price": 500,
+        "image": ""
+      },
+      {
+        "name": "Vine Leaves",
+        "description": "",
+        "price": 600,
+        "image": ""
+      },
+      {
+        "name": "Mixed Mahashi",
+        "description": "",
+        "price": 600,
+        "image": ""
+      },
+      {
+        "name": "Mombar (Stuffed Sausage)",
+        "description": "",
+        "price": 450,
+        "image": ""
+      },
+      {
+        "name": "Samosa (Beef|Chicken|Mixed Cheese)",
+        "description": "",
+        "price": 400,
+        "image": ""
+      },
+      {
+        "name": "Hawawshi",
+        "description": "",
+        "price": 500,
+        "image": ""
+      },
+      {
+        "name": "Cheese Hawawshi",
+        "description": "",
+        "price": 600,
+        "image": ""
+      },
+      {
+        "name": "Chicken Wings (4 pcs)",
+        "description": "",
+        "price": 450,
+        "image": ""
+      }
+    ]
+  },
+  "sides": {
+    "name": "Sides",
+    "items": [
+      {
+        "name": "Egyptian Rice",
+        "description": "",
+        "price": 340,
+        "image": ""
+      },
+      {
+        "name": "Plain Rice",
+        "description": "",
+        "price": 320,
+        "image": ""
+      },
+      {
+        "name": "Rice with Liver",
+        "description": "",
+        "price": 500,
+        "image": ""
+      },
+      {
+        "name": "Fattah",
+        "description": "",
+        "price": 450,
+        "image": ""
+      },
+      {
+        "name": "Fattah Kaware3",
+        "description": "",
+        "price": 1050,
+        "image": ""
+      },
+      {
+        "name": "Fries",
+        "description": "",
+        "price": 350,
+        "image": ""
+      },
+      {
+        "name": "Egyptian Molokhia",
+        "description": "",
+        "price": 400,
+        "image": ""
+      },
+      {
+        "name": "Cooked Vegetables (Okra, Potatoes or Mixed Vegetables)",
+        "description": "",
+        "price": 300,
+        "image": ""
+      }
+    ]
+  },
+  "tajin": {
+    "name": "Tajin",
+    "items": [
+      {
+        "name": "Okra Tajin",
+        "description": "Chunks of beef and okra baked in a clay pot with tomato and spices. Comes with rice, Orzo Soup, Arabic bread, and green salad.",
+        "price": 1600,
+        "image": ""
+      },
+      {
+        "name": "Potato Tajin",
+        "description": "Chunks of beef and potato baked in a clay pot with tomato and spices. Comes with rice, Orzo Soup, Arabic bread, and green salad.",
+        "price": 1500,
+        "image": ""
+      },
+      {
+        "name": "Moussaka Tajin",
+        "description": "Slow-cooked eggplant layered with minced meat, tomatoes, and warm spices, baked in a clay pot. Served with Arabic bread, green salad, and tahini sauce.",
+        "price": 1400,
+        "image": ""
+      },
+      {
+        "name": "Kebab Tajin",
+        "description": "Chunks of beef cooked with caramelized onions baked in a clay pot. Served with rice, Orzo Soup, Arabic bread, and green salad.",
+        "price": 1600,
+        "image": ""
+      },
+      {
+        "name": "Molokhia Tajin",
+        "description": "Chunks of beef and green leaves soup baked in a clay pot. Served with rice, Orzo Soup, Arabic bread, and green salad.",
+        "price": 1200,
+        "image": ""
+      },
+      {
+        "name": "Akawy Tajin",
+        "description": "4 pieces of slow-cooked oxtail meat baked in a clay pot. Served with rice, Orzo Soup, Arabic bread, and green salad.",
+        "price": 1700,
+        "image": ""
+      },
+      {
+        "name": "Warak Enab with Kaware3",
+        "description": "Stuffed vine leaves cooked with cow legs baked in a clay pot. Served with rice and green salad.",
+        "price": 1600,
+        "image": ""
+      },
+      {
+        "name": "Warak Lahmah",
+        "description": "10 pieces of oven-baked tender beef cooked with bell pepper and onion. Served with rice, Orzo Soup, Arabic bread, and green salad.",
+        "price": 1600,
+        "image": ""
+      },
+      {
+        "name": "Warak Enab b Akawy Tajin",
+        "description": "Stuffed vine leaves cooked with oxtail meat baked in a clay pot. Served with rice and green salad.",
+        "price": 1900,
+        "image": ""
+      }
+    ]
+  },
+  "grills": {
+    "name": "Beef & Lamb Grills",
+    "items": [
+      {
+        "name": "Lamb Kebab",
+        "description": "6 pieces of charcoal-grilled marinated lamb kebab with Arabic spices. Served with Arabic bread, green salad, tahini sauce, and choice of fries or rice.",
+        "price": 1800,
+        "image": ""
+      },
+      {
+        "name": "Lamb Chops",
+        "description": "5 pieces of tender lamb chops grilled with Arabic herbs and spices. Served with Arabic bread, green salad, tahini sauce, and choice of fries or rice.",
+        "price": 2100,
+        "image": ""
+      },
+      {
+        "name": "Beef Kebab",
+        "description": "12 pieces of marinated beef kebab grilled for a smoky flavor. Served with Arabic bread, green salad, tahini sauce, and choice of fries or rice.",
+        "price": 1600,
+        "image": ""
+      },
+      {
+        "name": "Lamb Chunk with Fattah",
+        "description": "Slow-cooked lamb chunks marinated in spices with fattah and tomato garlic sauce.",
+        "price": 2100,
+        "image": ""
+      },
+      {
+        "name": "Beef Steak",
+        "description": "3 pieces of beef steak marinated in Arabic spices. Served with Arabic bread, green salad, tahini sauce, and choice of fries or rice.",
+        "price": 2100,
+        "image": ""
+      },
+      {
+        "name": "Neifa",
+        "description": "4 pieces of slow-cooked lamb shoulder marinated in Arabic spices. Served with Arabic bread, green salad, tahini sauce, and choice of fries or rice.",
+        "price": 1600,
+        "image": ""
+      },
+      {
+        "name": "Kofta",
+        "description": "6 pieces of grilled minced meat served with Arabic bread, green salad, tahini sauce, and choice of fries or rice.",
+        "price": 1100,
+        "image": ""
+      },
+      {
+        "name": "Beef Sausage",
+        "description": "8 pieces of homemade beef sausage grilled and served with Arabic bread, green salad, tahini sauce, and choice of fries or rice.",
+        "price": 1500,
+        "image": ""
+      },
+      {
+        "name": "Tarb",
+        "description": "4 pieces of grilled minced meat wrapped in thin lamb fat layer for rich flavor. Served with Arabic bread, green salad, tahini sauce, and choice of fries or rice.",
+        "price": 1500,
+        "image": ""
+      },
+      {
+        "name": "Mixed Grill (Single)",
+        "description": "2 kofta, 2 lamb kebab, 3 sausage, 4 chicken wings, grilled to perfection. Served with Arabic bread, green salad, tahini sauce, and choice of fries or rice.",
+        "price": 2100,
+        "image": ""
+      }
+    ]
+  },
+  "chicken_plates": {
+    "name": "Chicken Plates",
+    "items": [
+      {
+        "name": "Half Chicken Shish",
+        "description": "6 pieces of marinated chicken served with Arabic bread, green salad, tahini sauce, and choice of fries or rice.",
+        "price": 1500,
+        "image": ""
+      },
+      {
+        "name": "Half Boneless Chicken",
+        "description": "Half chicken marinated in special in-house blend, served with Arabic bread, green salad, tahini sauce, and choice of fries or rice.",
+        "price": 1500,
+        "image": ""
+      },
+      {
+        "name": "Quarter Chicken Shish",
+        "description": "3 pieces of marinated chicken served with Arabic bread, green salad, tahini sauce, and choice of fries or rice.",
+        "price": 900,
+        "image": ""
+      },
+      {
+        "name": "Half Chicken Tikka",
+        "description": "Half chicken marinated in Arabic spices. Served with Arabic bread, green salad, tahini sauce, and choice of fries or rice.",
+        "price": 1500,
+        "image": ""
+      },
+      {
+        "name": "Shish Tawook",
+        "description": "8 pieces of boneless chicken marinated in Arabic spices. Served with Arabic bread, green salad, tahini sauce, and choice of fries or rice.",
+        "price": 1400,
+        "image": ""
+      },
+      {
+        "name": "Chicken Kofta",
+        "description": "6 pieces of chicken kofta marinated in Arabic spices. Served with Arabic bread, green salad, tahini sauce, and choice of fries or rice.",
+        "price": 1100,
+        "image": ""
+      },
+      {
+        "name": "Chicken Wings",
+        "description": "8 pieces of marinated chicken wings served with Arabic bread, green salad, tahini sauce, and choice of fries or rice.",
+        "price": 1200,
+        "image": ""
+      },
+      {
+        "name": "Stuffed Pigeon",
+        "description": "Whole pigeon stuffed with aromatic rice and spices, slow roasted to perfection. Served with green salad and fries.",
+        "price": 1500,
+        "image": ""
+      }
+    ]
+  },
+  "sharing_plates": {
+    "name": "Sharing Plates",
+    "items": [
+      {
+        "name": "Mixed Grill (2 Persons)",
+        "description": "4 kofta, 3 lamb kebab, 2 tarb, 4 sausage. Served with Arabic bread, green salad, tahini sauce, and choice of fries or rice.",
+        "price": 3500,
+        "image": ""
+      },
+      {
+        "name": "Mixed Grill (4 Persons)",
+        "description": "8 kofta, 6 lamb kebab, 4 tarb, 8 sausage. Served with Arabic bread, green salad, tahini sauce, and choice of fries or rice.",
+        "price": 6500,
+        "image": ""
+      }
+    ]
+  },
+  "coffee": {
+    "name": "Coffee",
+    "items": [
+      {
+        "name": "Americano",
+        "description": "",
+        "price": 300,
+        "image": ""
+      },
+      {
+        "name": "Flat White",
+        "description": "",
+        "price": 300,
+        "image": ""
+      },
+      {
+        "name": "Cappuccino",
+        "description": "",
+        "price": 300,
+        "image": ""
+      },
+      {
+        "name": "Double Cappuccino",
+        "description": "",
+        "price": 350,
+        "image": ""
+      },
+      {
+        "name": "Latte",
+        "description": "",
+        "price": 350,
+        "image": ""
+      },
+      {
+        "name": "Mocha",
+        "description": "",
+        "price": 350,
+        "image": ""
+      },
+      {
+        "name": "Espresso",
+        "description": "",
+        "price": 200,
+        "image": ""
+      }
+    ]
+  },
+  "mocktails": {
+    "name": "Mocktails",
+    "items": [
+      {
+        "name": "Citrus Garden",
+        "description": "",
+        "price": 650,
+        "image": ""
+      },
+      {
+        "name": "Watermelon Refresher",
+        "description": "",
+        "price": 650,
+        "image": ""
+      },
+      {
+        "name": "Ginger Peach Smash",
+        "description": "",
+        "price": 650,
+        "image": ""
+      },
+      {
+        "name": "Apple Spice Sparkle",
+        "description": "",
+        "price": 650,
+        "image": ""
+      },
+      {
+        "name": "Berry Lemonade",
+        "description": "",
+        "price": 650,
+        "image": ""
+      },
+      {
+        "name": "Tropical Fizz",
+        "description": "",
+        "price": 650,
+        "image": ""
+      },
+      {
+        "name": "Cucumber Cooler",
+        "description": "",
+        "price": 650,
+        "image": ""
+      },
+      {
+        "name": "Virgin Mojito",
+        "description": "",
+        "price": 650,
+        "image": ""
+      }
+    ]
+  },
+  "lemonades": {
+    "name": "Lemonades",
+    "items": [
+      {
+        "name": "Lemonade",
+        "description": "",
+        "price": 600,
+        "image": ""
+      },
+      {
+        "name": "Strawberry Lemonade",
+        "description": "",
+        "price": 600,
+        "image": ""
+      },
+      {
+        "name": "Blueberry Lemonade",
+        "description": "",
+        "price": 600,
+        "image": ""
+      },
+      {
+        "name": "Raspberry Lemonade",
+        "description": "",
+        "price": 600,
+        "image": ""
+      },
+      {
+        "name": "Classic Lemonade",
+        "description": "",
+        "price": 600,
+        "image": ""
+      },
+      {
+        "name": "Kiwi Lemonade",
+        "description": "",
+        "price": 600,
+        "image": ""
+      },
+      {
+        "name": "Cucumber Mint Lemonade",
+        "description": "",
+        "price": 600,
+        "image": ""
+      }
+    ]
+  },
+  "soft_drinks": {
+    "name": "Soft Drinks",
+    "items": [
+      {
+        "name": "Soda (Cola, Sprite, Fanta)",
+        "description": "",
+        "price": 200,
+        "image": ""
+      },
+      {
+        "name": "Still Water 0.5L",
+        "description": "",
+        "price": 200,
+        "image": ""
+      },
+      {
+        "name": "Still Water 1L",
+        "description": "",
+        "price": 300,
+        "image": ""
+      },
+      {
+        "name": "Sparkling Water 0.5L",
+        "description": "",
+        "price": 300,
+        "image": ""
+      }
+    ]
+  },
+  "fresh_juice": {
+    "name": "Fresh Juice",
+    "items": [
+      {
+        "name": "Anti-Oxidant Boost",
+        "description": "",
+        "price": 650,
+        "image": ""
+      },
+      {
+        "name": "Hydration",
+        "description": "",
+        "price": 650,
+        "image": ""
+      },
+      {
+        "name": "Liver Cleanse",
+        "description": "",
+        "price": 650,
+        "image": ""
+      },
+      {
+        "name": "Eye Health",
+        "description": "",
+        "price": 650,
+        "image": ""
+      },
+      {
+        "name": "Digestion Aid",
+        "description": "",
+        "price": 650,
+        "image": ""
+      },
+      {
+        "name": "Detox & Hydration",
+        "description": "",
+        "price": 650,
+        "image": ""
+      }
+    ]
+  }
+}
