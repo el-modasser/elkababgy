@@ -1,4 +1,129 @@
 {
+  "vegetarian": {
+    "name": "Vegetarian Selection",
+    "items": [
+      {
+        "name": "Baba Ghanouj",
+        "description": "Smoked eggplant dip with tahini and lemon",
+        "price": 200,
+        "image": "DSC00419.png"
+      },
+      {
+        "name": "Tahini Salad",
+        "description": "Creamy sesame paste salad",
+        "price": 200,
+        "image": "DSC00430.png"
+      },
+      {
+        "name": "Pickled Eggplant",
+        "description": "",
+        "price": 200,
+        "image": "DSC00422.png"
+      },
+      {
+        "name": "Pickled Tomatoes",
+        "description": "",
+        "price": 200,
+        "image": "DSC00424.png"
+      },
+      {
+        "name": "Green Salad",
+        "description": "Fresh mixed greens",
+        "price": 200,
+        "image": "DSC00415.png"
+      },
+      {
+        "name": "Yoghurt Salad",
+        "description": "Refreshing yogurt with cucumber and herbs",
+        "price": 200,
+        "image": "DSC00432.png"
+      },
+      {
+        "name": "Pickled Beetroot",
+        "description": "",
+        "price": 200,
+        "image": "DSC00413.png"
+      },
+      {
+        "name": "Pickles",
+        "description": "Assorted pickled vegetables",
+        "price": 200,
+        "image": ""
+      },
+      {
+        "name": "Lentils Soup",
+        "description": "Hearty lentil soup",
+        "price": 300,
+        "image": ""
+      },
+      {
+        "name": "Vegetarian Vine Leaves",
+        "description": "Grape leaves stuffed with rice and herbs",
+        "price": 600,
+        "image": ""
+      },
+      {
+        "name": "Vegetarian Mixed Mahashi",
+        "description": "Assorted vegetables stuffed with rice",
+        "price": 600,
+        "image": ""
+      },
+      {
+        "name": "Vegetarian Potato Tajin",
+        "description": "Potatoes baked in a clay pot with tomato and spices",
+        "price": 1500,
+        "image": "DSC00390.png"
+      },
+      {
+        "name": "Vegetarian Okra Tajin",
+        "description": "Okra baked in a clay pot with tomato and spices",
+        "price": 1600,
+        "image": "DSC00395.png"
+      },
+      {
+        "name": "Vegetarian Moussaka Tajin",
+        "description": "Slow-cooked eggplant layered with tomatoes and warm spices",
+        "price": 1400,
+        "image": ""
+      },
+      {
+        "name": "Vegetarian Warak Enab Tajin",
+        "description": "Stuffed vine leaves baked in a clay pot with herbs and lemon. Served with rice and green salad.",
+        "price": 1600,
+        "image": ""
+      },
+      {
+        "name": "Vegetarian Molokhia Tajin",
+        "description": "Green leaves soup baked in a clay pot. Served with rice, Arabic bread, and green salad.",
+        "price": 1200,
+        "image": ""
+      },
+      {
+        "name": "Vegetarian Egyptian Molokhia",
+        "description": "",
+        "price": 400,
+        "image": "moulukhya.png"
+      },
+      {
+        "name": "Egyptian Rice",
+        "description": "",
+        "price": 340,
+        "image": "DSC00397.png"
+      },
+      {
+        "name": "Fries",
+        "description": "",
+        "price": 350,
+        "image": "DSC00400.png"
+      },
+      {
+        "name": "Plain Rice",
+        "description": "",
+        "price": 320,
+        "image": ""
+      }
+    ]
+  },
   "salads": {
     "name": "Salads",
     "items": [
