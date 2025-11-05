@@ -18,6 +18,16 @@ const gelatoPrices = {
 
 // Enhanced vegetarian detection for all items
 const isVegetarian = (itemName, category, description = '') => {
+  // Categories where we don't want to show any emojis
+  const noEmojiCategories = [
+    'coffee', 'mocktails', 'lemonades', 'soft_drinks', 'fresh_juice'
+  ];
+
+  // If it's in a drinks category, return null to hide emoji
+  if (noEmojiCategories.includes(category)) {
+    return null;
+  }
+
   const vegKeywords = [
     'salad', 'vegetable', 'veg', 'cheese', 'rice', 'fries', 'yoghurt',
     'pickled', 'tahini', 'baba', 'lentils', 'orzo', 'vine leaves',
