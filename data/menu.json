@@ -383,7 +383,7 @@
       {
         "name": "Lamb Chops",
         "description": "5 pieces of tender lamb chops grilled with Arabic herbs and spices. Served with Arabic bread, green salad, tahini sauce, and choice of fries or rice.",
-        "price": 2100,
+        "price": 2200,
         "image": "DSC00377.png"
       },
       {
@@ -547,6 +547,53 @@
       }
     ]
   },
+  "tea": {
+    "name": "Tea",
+    "items": [
+      {
+        "name": "Hibiscus Tea",
+        "description": "",
+        "price": 350,
+        "image": ""
+      },
+      {
+        "name": "Dawa",
+        "description": "",
+        "price": 400,
+        "image": ""
+      },
+      {
+        "name": "Masala Tea",
+        "description": "",
+        "price": 350,
+        "image": ""
+      },
+      {
+        "name": "Green Tea",
+        "description": "",
+        "price": 250,
+        "image": ""
+      },
+      {
+        "name": "White Tea",
+        "description": "",
+        "price": 300,
+        "image": ""
+      },
+      {
+        "name": "Black Spice Tea",
+        "description": "",
+        "price": 250,
+        "image": ""
+      },
+      {
+        "name": "Black Tea",
+        "description": "",
+        "price": 200,
+        "image": ""
+      }
+    ]
+  },
   "mocktails": {
     "name": "Mocktails",
     "items": [
@@ -680,39 +727,44 @@
     "name": "Fresh Juice",
     "items": [
       {
-        "name": "Anti-Oxidant Boost",
+        "name": "Pineapple Mint",
         "description": "",
-        "price": 650,
+        "price": 600,
         "image": ""
       },
       {
-        "name": "Hydration",
+        "name": "Fresh Orange Juice",
         "description": "",
         "price": 650,
         "image": ""
-      },
+      }
+    ]
+  },
+  "milkshakes": {
+    "name": "Milkshakes",
+    "items": [
       {
-        "name": "Liver Cleanse",
+        "name": "Kiwi Milkshake",
         "description": "",
-        "price": 650,
+        "price": 600,
         "image": ""
       },
       {
-        "name": "Eye Health",
+        "name": "Peach-Vanilla Milkshake",
         "description": "",
-        "price": 650,
+        "price": 600,
         "image": ""
       },
       {
-        "name": "Digestion Aid",
+        "name": "Strawberry Milkshake",
         "description": "",
-        "price": 650,
+        "price": 600,
         "image": ""
       },
       {
-        "name": "Detox & Hydration",
+        "name": "Vanilla Milkshake",
         "description": "",
-        "price": 650,
+        "price": 600,
         "image": ""
       }
     ]
