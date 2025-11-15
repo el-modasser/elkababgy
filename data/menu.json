@@ -716,5 +716,64 @@
         "image": ""
       }
     ]
+  },
+  "desserts": {
+    "name": "Desserts",
+    "items": [
+      {
+        "name": "Cranberry Bread",
+        "description": "",
+        "price": 450,
+        "image": ""
+      },
+      {
+        "name": "Tiramisu",
+        "description": "",
+        "price": 650,
+        "image": ""
+      },
+      {
+        "name": "Konafa with Mango",
+        "description": "",
+        "price": 650,
+        "image": ""
+      },
+      {
+        "name": "Rice Pudding",
+        "description": "",
+        "price": 450,
+        "image": ""
+      },
+      {
+        "name": "Homemade Cheese Cake",
+        "description": "",
+        "price": 650,
+        "image": ""
+      },
+      {
+        "name": "Mix Oriental",
+        "description": "",
+        "price": 650,
+        "image": ""
+      },
+      {
+        "name": "Balah Elsham",
+        "description": "",
+        "price": 175,
+        "image": ""
+      },
+      {
+        "name": "Basbosa",
+        "description": "",
+        "price": 150,
+        "image": ""
+      },
+      {
+        "name": "Konafa",
+        "description": "",
+        "price": 150,
+        "image": ""
+      }
+    ]
   }
 }
