@@ -70,31 +70,31 @@
       },
       {
         "name": "Vegetarian Potato Tajin",
-        "description": "Potatoes baked in a clay pot with tomato and spices",
+        "description": "Potatoes baked in a clay pot with tomato and spices served with rice.",
         "price": 1500,
         "image": "DSC00390.png"
       },
       {
         "name": "Vegetarian Okra Tajin",
-        "description": "Okra baked in a clay pot with tomato and spices",
+        "description": "Okra baked in a clay pot with tomato and spices served with rice.",
         "price": 1600,
         "image": "DSC00395.png"
       },
       {
         "name": "Vegetarian Moussaka Tajin",
-        "description": "Slow-cooked eggplant layered with tomatoes and warm spices",
+        "description": "Slow-cooked eggplant layered with tomatoes and warm spices served with Arabic bread or rice.",
         "price": 1400,
         "image": ""
       },
       {
         "name": "Vegetarian Warak Enab Tajin",
-        "description": "Stuffed vine leaves baked in a clay pot with herbs and lemon. Served with rice and green salad.",
+        "description": "Stuffed vine leaves baked in a clay pot with herbs and lemon. Served with green salad.",
         "price": 1600,
         "image": ""
       },
       {
         "name": "Vegetarian Molokhia Tajin",
-        "description": "Green leaves soup baked in a clay pot. Served with rice, Arabic bread, and green salad.",
+        "description": "Green leaves soup baked in a clay pot. Served with rice or Arabic bread.",
         "price": 1200,
         "image": ""
       },
@@ -295,19 +295,13 @@
       {
         "name": "Fattah",
         "description": "",
-        "price": 450,
-        "image": ""
-      },
-      {
-        "name": "Fattah Kaware3",
-        "description": "",
-        "price": 1050,
+        "price": 550,
         "image": ""
       },
       {
         "name": "Cooked Vegetables (Okra, Potatoes or Mixed Vegetables)",
         "description": "",
-        "price": 300,
+        "price": 500,
         "image": ""
       }
     ]
@@ -317,56 +311,62 @@
     "items": [
       {
         "name": "Okra Tajin",
-        "description": "Chunks of beef and okra baked in a clay pot with tomato and spices. Comes with rice, Orzo Soup, Arabic bread, and green salad.",
+        "description": "Chunks of beef and okra baked in a clay pot with tomato and spices. Comes with rice.",
         "price": 1600,
         "image": "DSC00395.png"
       },
       {
         "name": "Potato Tajin",
-        "description": "Chunks of beef and potato baked in a clay pot with tomato and spices. Comes with rice, Orzo Soup, Arabic bread, and green salad.",
+        "description": "Chunks of beef and potato baked in a clay pot with tomato and spices. Comes with rice.",
         "price": 1500,
         "image": "DSC00390.png"
       },
       {
         "name": "Moussaka Tajin",
-        "description": "Slow-cooked eggplant layered with minced meat, tomatoes, and warm spices, baked in a clay pot. Served with Arabic bread, green salad, and tahini sauce.",
+        "description": "Slow-cooked eggplant layered with minced meat, tomatoes, and warm spices, baked in a clay pot.",
         "price": 1400,
         "image": ""
       },
       {
         "name": "Kebab Tajin",
-        "description": "Chunks of beef cooked with caramelized onions baked in a clay pot. Served with rice, Orzo Soup, Arabic bread, and green salad.",
+        "description": "Chunks of beef cooked with caramelized onions baked in a clay pot. Served with rice.",
         "price": 1600,
         "image": ""
       },
       {
         "name": "Molokhia Tajin",
-        "description": "Chunks of beef and green leaves soup baked in a clay pot. Served with rice, Orzo Soup, Arabic bread, and green salad.",
+        "description": "Chunks of beef and green leaves soup baked in a clay pot. Served with rice or Arabic bread.",
         "price": 1200,
         "image": ""
       },
       {
         "name": "Akawy Tajin",
-        "description": "4 pieces of slow-cooked oxtail meat baked in a clay pot. Served with rice, Orzo Soup, Arabic bread, and green salad.",
+        "description": "4 pieces of slow-cooked oxtail meat baked in a clay pot. Served with rice.",
         "price": 1700,
         "image": ""
       },
       {
         "name": "Warak Enab with Kaware3",
-        "description": "Stuffed vine leaves cooked with cow legs baked in a clay pot. Served with rice and green salad.",
+        "description": "Stuffed vine leaves cooked with cow legs baked in a clay pot.",
         "price": 1600,
         "image": ""
       },
       {
         "name": "Warak Lahmah",
-        "description": "10 pieces of oven-baked tender beef cooked with bell pepper and onion. Served with rice, Orzo Soup, Arabic bread, and green salad.",
+        "description": "10 pieces of oven-baked tender beef cooked with bell pepper and onion. Served with rice.",
         "price": 1600,
         "image": ""
       },
       {
         "name": "Warak Enab b Akawy Tajin",
-        "description": "Stuffed vine leaves cooked with oxtail meat baked in a clay pot. Served with rice and green salad.",
+        "description": "Stuffed vine leaves cooked with oxtail meat baked in a clay pot.",
         "price": 1900,
+        "image": ""
+      },
+      {
+        "name": "Fattah Kaware3",
+        "description": "",
+        "price": 1500,
         "image": ""
       }
     ]
@@ -488,13 +488,13 @@
     "items": [
       {
         "name": "Mixed Grill (2 Persons)",
-        "description": "4 kofta, 3 lamb kebab, 2 tarb, 4 sausage. Served with Arabic bread, green salad, tahini sauce, and choice of fries or rice.",
+        "description": "4 kofta, 3 lamb kebab, 1 shish tawook skewer, 4 sausage. Served with Arabic bread, green salad, tahini sauce, and choice of fries or rice.",
         "price": 3500,
         "image": "DSC00463.png"
       },
       {
         "name": "Mixed Grill (4 Persons)",
-        "description": "8 kofta, 6 lamb kebab, 4 tarb, 8 sausage. Served with Arabic bread, green salad, tahini sauce, and choice of fries or rice.",
+        "description": "8 kofta, 6 lamb kebab, 2 shish tawook skewers, 8 sausage. Served with Arabic bread, green salad, tahini sauce, and choice of fries or rice.",
         "price": 6500,
         "image": "DSC00464.png"
       }
@@ -543,6 +543,12 @@
         "name": "Espresso",
         "description": "",
         "price": 200,
+        "image": ""
+      },
+      {
+        "name": "Double Espresso",
+        "description": "",
+        "price": 300,
         "image": ""
       }
     ]
@@ -746,25 +752,25 @@
       {
         "name": "Kiwi Milkshake",
         "description": "",
-        "price": 600,
+        "price": 650,
         "image": ""
       },
       {
         "name": "Peach-Vanilla Milkshake",
         "description": "",
-        "price": 600,
+        "price": 650,
         "image": ""
       },
       {
         "name": "Strawberry Milkshake",
         "description": "",
-        "price": 600,
+        "price": 650,
         "image": ""
       },
       {
         "name": "Vanilla Milkshake",
         "description": "",
-        "price": 600,
+        "price": 650,
         "image": ""
       }
     ]
