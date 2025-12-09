@@ -324,7 +324,7 @@
       {
         "name": "Moussaka Tajin",
         "description": "Slow-cooked eggplant layered with minced meat, tomatoes, and warm spices, baked in a clay pot.",
-        "price": 1400,
+        "price": 1700,
         "image": ""
       },
       {
@@ -478,7 +478,7 @@
       {
         "name": "Stuffed Pigeon (Hamam)",
         "description": "Whole pigeon stuffed with aromatic rice and spices, slow roasted to perfection. Served with green salad and fries.",
-        "price": 1500,
+        "price": 1750,
         "image": "hamam.png"
       }
     ]
