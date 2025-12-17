@@ -2,5 +2,33 @@
   command = "npm run build"
   publish = ".next"
 
-[[plugins]]
-  package = "@netlify/plugin-nextjs"
+[build.environment]
+  NEXT_PUBLIC_BASE_URL = "https://elkababgy.esto.solutions"
+
+[dev]
+  command = "npm run dev"
+  publish = "public"
+  port = 3000
+
+[[redirects]]
+  from = "https://elkababgynbo.netlify.app/*"
+  to = "https://elkababgy.esto.solutions/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/"
+  to = "/index.html"
+  status = 200
+
+# Preserve /?order=true query parameters
+[[redirects]]
+  from = "/?order=true"
+  to = "/?order=true"
+  status = 200
+
+# Catch-all redirect
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200

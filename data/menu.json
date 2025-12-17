@@ -1,835 +1,1156 @@
 {
-  "vegetarian": {
-    "name": "Vegetarian Selection",
-    "items": [
-      {
-        "name": "Baba Ghanouj",
-        "description": "Smoked eggplant dip with tahini and lemon",
-        "price": 200,
-        "image": "DSC00419.png"
-      },
-      {
-        "name": "Tahini Salad",
-        "description": "Creamy sesame paste salad",
-        "price": 200,
-        "image": "DSC00430.png"
-      },
-      {
-        "name": "Pickled Eggplant",
-        "description": "",
-        "price": 200,
-        "image": "DSC00422.png"
-      },
-      {
-        "name": "Pickled Tomatoes",
-        "description": "",
-        "price": 200,
-        "image": "DSC00424.png"
-      },
-      {
-        "name": "Green Salad",
-        "description": "Fresh mixed greens",
-        "price": 200,
-        "image": "DSC00415.png"
-      },
-      {
-        "name": "Yoghurt Salad",
-        "description": "Refreshing yogurt with cucumber and herbs",
-        "price": 200,
-        "image": "DSC00432.png"
-      },
-      {
-        "name": "Pickled Beetroot",
-        "description": "",
-        "price": 200,
-        "image": "DSC00413.png"
-      },
-      {
-        "name": "Pickles",
-        "description": "Assorted pickled vegetables",
-        "price": 200,
-        "image": ""
-      },
-      {
-        "name": "Lentils Soup",
-        "description": "Hearty lentil soup",
-        "price": 300,
-        "image": ""
-      },
-      {
-        "name": "Vegetarian Vine Leaves",
-        "description": "Grape leaves stuffed with rice and herbs",
-        "price": 600,
-        "image": ""
-      },
-      {
-        "name": "Vegetarian Mixed Mahashi",
-        "description": "Assorted vegetables stuffed with rice",
-        "price": 600,
-        "image": ""
-      },
-      {
-        "name": "Vegetarian Potato Tajin",
-        "description": "Potatoes baked in a clay pot with tomato and spices served with rice.",
-        "price": 1500,
-        "image": "DSC00390.png"
-      },
-      {
-        "name": "Vegetarian Okra Tajin",
-        "description": "Okra baked in a clay pot with tomato and spices served with rice.",
-        "price": 1600,
-        "image": "DSC00395.png"
-      },
-      {
-        "name": "Vegetarian Moussaka Tajin",
-        "description": "Slow-cooked eggplant layered with tomatoes and warm spices served with Arabic bread or rice.",
-        "price": 1400,
-        "image": ""
-      },
-      {
-        "name": "Vegetarian Warak Enab Tajin",
-        "description": "Stuffed vine leaves baked in a clay pot with herbs and lemon. Served with green salad.",
-        "price": 1600,
-        "image": ""
-      },
-      {
-        "name": "Vegetarian Molokhia Tajin",
-        "description": "Green leaves soup baked in a clay pot. Served with rice or Arabic bread.",
-        "price": 1200,
-        "image": ""
-      },
-      {
-        "name": "Vegetarian Egyptian Molokhia",
-        "description": "",
-        "price": 400,
-        "image": "moulukhya.png"
-      },
-      {
-        "name": "Egyptian Rice",
-        "description": "",
-        "price": 340,
-        "image": "DSC00397.png"
-      },
-      {
-        "name": "Fries",
-        "description": "",
-        "price": 350,
-        "image": "DSC00400.png"
-      },
-      {
-        "name": "Plain Rice",
-        "description": "",
-        "price": 320,
-        "image": ""
-      }
-    ]
-  },
-  "salads": {
-    "name": "Salads",
-    "items": [
-      {
-        "name": "Baba Ghanouj",
-        "description": "",
-        "price": 200,
-        "image": "DSC00419.png"
-      },
-      {
-        "name": "Tahini Salad",
-        "description": "",
-        "price": 200,
-        "image": "DSC00430.png"
-      },
-      {
-        "name": "Pickled Eggplant",
-        "description": "",
-        "price": 200,
-        "image": "DSC00422.png"
-      },
-      {
-        "name": "Pickled Tomatoes",
-        "description": "",
-        "price": 200,
-        "image": "DSC00424.png"
-      },
-      {
-        "name": "Green Salad",
-        "description": "",
-        "price": 200,
-        "image": "DSC00415.png"
-      },
-      {
-        "name": "Yoghurt Salad",
-        "description": "",
-        "price": 200,
-        "image": "DSC00432.png"
-      },
-      {
-        "name": "Pickled Beetroot",
-        "description": "",
-        "price": 200,
-        "image": "DSC00413.png"
-      },
-      {
-        "name": "Pickles",
-        "description": "",
-        "price": 200,
-        "image": ""
-      }
-    ]
-  },
-  "soups": {
-    "name": "Soups",
-    "items": [
-      {
-        "name": "Kaware3 Soup",
-        "description": "",
-        "price": 400,
-        "image": "IMG_4454.png"
-      },
-      {
-        "name": "Orzo Soup",
-        "description": "",
-        "price": 250,
-        "image": ""
-      },
-      {
-        "name": "Lentils Soup",
-        "description": "",
-        "price": 300,
-        "image": ""
-      }
-    ]
-  },
   "appetizers": {
+    "heroImage": "",
     "name": "Appetizers",
+    "name_ar": "مقبلات",
     "items": [
       {
         "name": "Grilled Liver",
+        "name_ar": "كبد مشوي",
         "description": "",
+        "description_ar": "",
         "price": 500,
+        "options": [],
         "image": "DSC00440.png"
       },
       {
         "name": "Homemade Grilled Sausage",
+        "name_ar": "سجق مشوي منزلي",
         "description": "",
+        "description_ar": "",
         "price": 500,
+        "options": [],
         "image": "DSC00458.png"
       },
       {
         "name": "Mombar (Stuffed Sausage)",
+        "name_ar": "ممبار (سجق محشي)",
         "description": "",
+        "description_ar": "",
         "price": 450,
+        "options": [],
         "image": "DSC00438.png"
       },
       {
         "name": "Hawawshi",
+        "name_ar": "حواوشي",
         "description": "",
+        "description_ar": "",
         "price": 500,
+        "options": [],
         "image": "DSC00392.png"
       },
       {
         "name": "Cheese Hawawshi",
+        "name_ar": "حواوشي بالجبن",
         "description": "",
+        "description_ar": "",
         "price": 600,
+        "options": [],
         "image": ""
       },
       {
         "name": "Samosa (Beef|Chicken|Mixed Cheese)",
+        "name_ar": "سمبوسة (لحم|دجاج|جبنة متنوعة)",
         "description": "",
+        "description_ar": "",
         "price": 400,
+        "options": [],
         "image": ""
       },
       {
         "name": "Mixed Mahashi",
+        "name_ar": "محشي متنوع",
         "description": "",
+        "description_ar": "",
         "price": 600,
+        "options": [],
         "image": ""
       },
       {
         "name": "Vine Leaves",
+        "name_ar": "ورق عنب",
         "description": "",
+        "description_ar": "",
         "price": 600,
+        "options": [],
         "image": ""
       },
       {
         "name": "Chicken Wings (4 pcs)",
+        "name_ar": "أجنحة دجاج (٤ قطع)",
         "description": "",
+        "description_ar": "",
         "price": 450,
-        "image": ""
-      }
-    ]
-  },
-  "sides": {
-    "name": "Sides",
-    "items": [
-      {
-        "name": "Egyptian Rice",
-        "description": "",
-        "price": 340,
-        "image": "DSC00397.png"
-      },
-      {
-        "name": "Egyptian Molokhia",
-        "description": "",
-        "price": 400,
-        "image": "moulukhya.png"
-      },
-      {
-        "name": "Fries",
-        "description": "",
-        "price": 350,
-        "image": "DSC00400.png"
-      },
-      {
-        "name": "Plain Rice",
-        "description": "",
-        "price": 320,
-        "image": ""
-      },
-      {
-        "name": "Rice with Liver",
-        "description": "",
-        "price": 500,
-        "image": ""
-      },
-      {
-        "name": "Fattah",
-        "description": "",
-        "price": 550,
-        "image": ""
-      },
-      {
-        "name": "Cooked Vegetables (Okra, Potatoes or Mixed Vegetables)",
-        "description": "",
-        "price": 500,
-        "image": ""
-      }
-    ]
-  },
-  "tajin": {
-    "name": "Tajin",
-    "items": [
-      {
-        "name": "Okra Tajin",
-        "description": "Chunks of beef and okra baked in a clay pot with tomato and spices. Comes with rice.",
-        "price": 1600,
-        "image": "DSC00395.png"
-      },
-      {
-        "name": "Potato Tajin",
-        "description": "Chunks of beef and potato baked in a clay pot with tomato and spices. Comes with rice.",
-        "price": 1500,
-        "image": "DSC00390.png"
-      },
-      {
-        "name": "Moussaka Tajin",
-        "description": "Slow-cooked eggplant layered with minced meat, tomatoes, and warm spices, baked in a clay pot.",
-        "price": 1700,
-        "image": ""
-      },
-      {
-        "name": "Kebab Tajin",
-        "description": "Chunks of beef cooked with caramelized onions baked in a clay pot. Served with rice.",
-        "price": 1600,
-        "image": ""
-      },
-      {
-        "name": "Molokhia Tajin",
-        "description": "Chunks of beef and green leaves soup baked in a clay pot. Served with rice or Arabic bread.",
-        "price": 1200,
-        "image": ""
-      },
-      {
-        "name": "Akawy Tajin",
-        "description": "4 pieces of slow-cooked oxtail meat baked in a clay pot. Served with rice.",
-        "price": 1700,
-        "image": ""
-      },
-      {
-        "name": "Warak Enab with Kaware3",
-        "description": "Stuffed vine leaves cooked with cow legs baked in a clay pot.",
-        "price": 1600,
-        "image": ""
-      },
-      {
-        "name": "Warak Lahmah",
-        "description": "10 pieces of oven-baked tender beef cooked with bell pepper and onion. Served with rice.",
-        "price": 1600,
-        "image": ""
-      },
-      {
-        "name": "Warak Enab b Akawy Tajin",
-        "description": "Stuffed vine leaves cooked with oxtail meat baked in a clay pot.",
-        "price": 1900,
-        "image": ""
-      },
-      {
-        "name": "Fattah Kaware3",
-        "description": "",
-        "price": 1500,
+        "options": [],
         "image": ""
       }
     ]
   },
   "grills": {
+    "heroImage": "",
     "name": "Beef & Lamb Grills",
+    "name_ar": "مشاوي اللحم البقري والضأن",
     "items": [
       {
         "name": "Lamb Kebab",
+        "name_ar": "كباب ضأن",
         "description": "6 pieces of charcoal-grilled marinated lamb kebab with Arabic spices. Served with Arabic bread, green salad, tahini sauce, and choice of fries or rice.",
+        "description_ar": "٦ قطع من كباب الضأن المتبل بتوابل عربية ومشوي على الفحم، يقدم مع خبز عربي، سلطة خضراء، صلصة طحينة، واختيار البطاطس المقلية أو الأرز.",
         "price": 1800,
+        "options": [],
         "image": "DSC00370.png"
       },
       {
         "name": "Lamb Chops",
+        "name_ar": "قطع ضأن",
         "description": "5 pieces of tender lamb chops grilled with Arabic herbs and spices. Served with Arabic bread, green salad, tahini sauce, and choice of fries or rice.",
+        "description_ar": "٥ قطع من شرائح الضأن الطرية المشوية مع أعشاب وتوابل عربية، تقدم مع خبز عربي، سلطة خضراء، صلصة طحينة، واختيار البطاطس المقلية أو الأرز.",
         "price": 2200,
+        "options": [],
         "image": "DSC00377.png"
       },
       {
         "name": "Beef Kebab",
+        "name_ar": "كباب لحم بقري",
         "description": "12 pieces of marinated beef kebab grilled for a smoky flavor. Served with Arabic bread, green salad, tahini sauce, and choice of fries or rice.",
+        "description_ar": "١٢ قطعة من كباب اللحم البقري المتبل والمشوي لنكهة مدخنة، يقدم مع خبز عربي، سلطة خضراء، صلصة طحينة، واختيار البطاطس المقلية أو الأرز.",
         "price": 1600,
+        "options": [],
         "image": "DSC00386.png"
       },
       {
         "name": "Lamb Chunk with Fattah",
+        "name_ar": "قطع ضأن مع فتة",
         "description": "Slow-cooked lamb chunks marinated in spices with fattah and tomato garlic sauce.",
+        "description_ar": "قطع ضأن مطهوة ببطء ومتبلة بالتوابل مع فتة وصلصة طماطم بالثوم.",
         "price": 2100,
+        "options": [],
         "image": "DSC00443.png"
       },
       {
         "name": "Kofta",
+        "name_ar": "كفتة",
         "description": "6 pieces of grilled minced meat served with Arabic bread, green salad, tahini sauce, and choice of fries or rice.",
+        "description_ar": "٦ قطع من الكفتة المشوية، تقدم مع خبز عربي، سلطة خضراء، صلصة طحينة، واختيار البطاطس المقلية أو الأرز.",
         "price": 1100,
+        "options": [],
         "image": "DSC00378.png"
       },
       {
         "name": "Beef Sausage",
+        "name_ar": "سجق لحم بقري",
         "description": "8 pieces of homemade beef sausage grilled and served with Arabic bread, green salad, tahini sauce, and choice of fries or rice.",
+        "description_ar": "٨ قطع من السجق البقري المنزلي المشوي، يقدم مع خبز عربي، سلطة خضراء، صلصة طحينة، واختيار البطاطس المقلية أو الأرز.",
         "price": 1500,
+        "options": [],
         "image": "DSC00385.png"
       },
       {
         "name": "Tarb",
+        "name_ar": "طرب",
         "description": "4 pieces of grilled minced meat wrapped in thin lamb fat layer for rich flavor. Served with Arabic bread, green salad, tahini sauce, and choice of fries or rice.",
+        "description_ar": "٤ قطع من اللحم المفروم المشوي ملفوف بطبقة رقيقة من دهن الضأن لنكهة غنية، تقدم مع خبز عربي، سلطة خضراء، صلصة طحينة، واختيار البطاطس المقلية أو الأرز.",
         "price": 1500,
+        "options": [],
         "image": "DSC00368.png"
       },
       {
         "name": "Mixed Grill (Single)",
+        "name_ar": "مشاوي متنوعة (شخص واحد)",
         "description": "2 kofta, 2 lamb kebab, 3 sausage, 4 chicken wings, grilled to perfection. Served with Arabic bread, green salad, tahini sauce, and choice of fries or rice.",
+        "description_ar": "٢ كفتة، ٢ كباب ضأن، ٣ سجق، ٤ أجنحة دجاج، مشوية بإتقان، تقدم مع خبز عربي، سلطة خضراء، صلصة طحينة، واختيار البطاطس المقلية أو الأرز.",
         "price": 2100,
+        "options": [],
         "image": "DSC00454.png"
       },
       {
         "name": "Beef Steak",
+        "name_ar": "ستيك لحم بقري",
         "description": "3 pieces of beef steak marinated in Arabic spices. Served with Arabic bread, green salad, tahini sauce, and choice of fries or rice.",
+        "description_ar": "٣ قطع من ستيك اللحم البقري المتبل بتوابل عربية، تقدم مع خبز عربي، سلطة خضراء، صلصة طحينة، واختيار البطاطس المقلية أو الأرز.",
         "price": 2100,
+        "options": [],
         "image": ""
       },
       {
         "name": "Neifa",
+        "name_ar": "نيفة",
         "description": "4 pieces of slow-cooked lamb shoulder marinated in Arabic spices. Served with Arabic bread, green salad, tahini sauce, and choice of fries or rice.",
+        "description_ar": "٤ قطع من كتف الضأن المطهو ببطء والمتبل بتوابل عربية، تقدم مع خبز عربي، سلطة خضراء، صلصة طحينة، واختيار البطاطس المقلية أو الأرز.",
         "price": 1600,
+        "options": [],
         "image": ""
       }
     ]
   },
   "chicken_plates": {
+    "heroImage": "",
     "name": "Chicken Plates",
+    "name_ar": "أطباق الدجاج",
     "items": [
       {
         "name": "Half Chicken Shish",
+        "name_ar": "نصف دجاج شيش",
         "description": "6 pieces of marinated chicken served with Arabic bread, green salad, tahini sauce, and choice of fries or rice.",
+        "description_ar": "٦ قطع من الدجاج المتبل، يقدم مع خبز عربي، سلطة خضراء، صلصة طحينة، واختيار البطاطس المقلية أو الأرز.",
         "price": 1500,
+        "options": [],
         "image": "DSC00381.png"
       },
       {
         "name": "Half Boneless Chicken",
+        "name_ar": "نصف دجاج منزوع العظم",
         "description": "Half chicken marinated in special in-house blend, served with Arabic bread, green salad, tahini sauce, and choice of fries or rice.",
+        "description_ar": "نصف دجاج متبل بمزيج خاص من التوابل، يقدم مع خبز عربي، سلطة خضراء، صلصة طحينة، واختيار البطاطس المقلية أو الأرز.",
         "price": 1500,
+        "options": [],
         "image": "DSC00372.png"
       },
       {
         "name": "Quarter Chicken Shish",
+        "name_ar": "ربع دجاج شيش",
         "description": "3 pieces of marinated chicken served with Arabic bread, green salad, tahini sauce, and choice of fries or rice.",
+        "description_ar": "٣ قطع من الدجاج المتبل، تقدم مع خبز عربي، سلطة خضراء، صلصة طحينة، واختيار البطاطس المقلية أو الأرز.",
         "price": 900,
+        "options": [],
         "image": "DSC00446.png"
       },
       {
         "name": "Half Chicken Tikka",
+        "name_ar": "نصف دجاج تيكا",
         "description": "Half chicken marinated in Arabic spices. Served with Arabic bread, green salad, tahini sauce, and choice of fries or rice.",
+        "description_ar": "نصف دجاج متبل بتوابل عربية، يقدم مع خبز عربي، سلطة خضراء، صلصة طحينة، واختيار البطاطس المقلية أو الأرز.",
         "price": 1500,
+        "options": [],
         "image": "DSC00374.png"
       },
       {
         "name": "Shish Tawook",
+        "name_ar": "شيش طاووق",
         "description": "8 pieces of boneless chicken marinated in Arabic spices. Served with Arabic bread, green salad, tahini sauce, and choice of fries or rice.",
+        "description_ar": "٨ قطع من الدجاج المنزوع العظم والمتبل بتوابل عربية، يقدم مع خبز عربي، سلطة خضراء، صلصة طحينة، واختيار البطاطس المقلية أو الأرز.",
         "price": 1400,
+        "options": [],
         "image": "DSC00389.png"
       },
       {
         "name": "Chicken Wings",
+        "name_ar": "أجنحة دجاج",
         "description": "8 pieces of marinated chicken wings served with Arabic bread, green salad, tahini sauce, and choice of fries or rice.",
+        "description_ar": "٨ قطع من أجنحة الدجاج المتبلة، تقدم مع خبز عربي، سلطة خضراء، صلصة طحينة، واختيار البطاطس المقلية أو الأرز.",
         "price": 1200,
+        "options": [],
         "image": "DSC00450.png"
       },
       {
         "name": "Stuffed Pigeon (Hamam)",
+        "name_ar": "حمام محشي",
         "description": "Whole pigeon stuffed with aromatic rice and spices, slow roasted to perfection. Served with green salad and fries.",
+        "description_ar": "حمامة كاملة محشوة بأرز عطري وتوابل، مشوية ببطء إلى الكمال، تقدم مع سلطة خضراء وبطاطس مقلية.",
         "price": 1750,
+        "options": [],
         "image": "hamam.png"
       }
     ]
   },
   "sharing_plates": {
+    "heroImage": "",
     "name": "Sharing Plates",
+    "name_ar": "أطباق للمشاركة",
     "items": [
       {
         "name": "Mixed Grill (2 Persons)",
+        "name_ar": "مشاوي متنوعة (شخصين)",
         "description": "4 kofta, 3 lamb kebab, 1 shish tawook skewer, 4 sausage. Served with Arabic bread, green salad, tahini sauce, and choice of fries or rice.",
+        "description_ar": "٤ كفتة، ٣ كباب ضأن، ١ سيخ شيش طاووق، ٤ سجق، تقدم مع خبز عربي، سلطة خضراء، صلصة طحينة، واختيار البطاطس المقلية أو الأرز.",
         "price": 3500,
+        "options": [],
         "image": "DSC00463.png"
       },
       {
         "name": "Mixed Grill (4 Persons)",
+        "name_ar": "مشاوي متنوعة (٤ أشخاص)",
         "description": "8 kofta, 6 lamb kebab, 2 shish tawook skewers, 8 sausage. Served with Arabic bread, green salad, tahini sauce, and choice of fries or rice.",
+        "description_ar": "٨ كفتة، ٦ كباب ضأن، ٢ سيخ شيش طاووق، ٨ سجق، تقدم مع خبز عربي، سلطة خضراء، صلصة طحينة، واختيار البطاطس المقلية أو الأرز.",
         "price": 6500,
+        "options": [],
         "image": "DSC00464.png"
       }
     ]
   },
-  "coffee": {
-    "name": "Coffee",
+  "tajin": {
+    "heroImage": "",
+    "name": "Tajin",
+    "name_ar": "طواجن",
     "items": [
       {
-        "name": "Latte",
-        "description": "",
-        "price": 350,
-        "image": "IMG_4552-2.png"
+        "name": "Okra Tajin",
+        "name_ar": "طاجن البامية",
+        "description": "Chunks of beef and okra baked in a clay pot with tomato and spices. Comes with rice.",
+        "description_ar": "قطع لحم وبامية مطهية في طاجن طيني مع الطماطم والتوابل، تقدم مع الأرز.",
+        "price": 1600,
+        "options": [],
+        "image": "DSC00395.png"
       },
       {
-        "name": "Americano",
-        "description": "",
-        "price": 300,
+        "name": "Potato Tajin",
+        "name_ar": "طاجن البطاطس",
+        "description": "Chunks of beef and potato baked in a clay pot with tomato and spices. Comes with rice.",
+        "description_ar": "قطع لحم وبطاطس مطهية في طاجن طيني مع الطماطم والتوابل، تقدم مع الأرز.",
+        "price": 1500,
+        "options": [],
+        "image": "DSC00390.png"
+      },
+      {
+        "name": "Moussaka Tajin",
+        "name_ar": "طاجن المسقعة",
+        "description": "Slow-cooked eggplant layered with minced meat, tomatoes, and warm spices, baked in a clay pot.",
+        "description_ar": "باذنجان مطهو ببطء مع طبقات من اللحم المفروم والطماطم والتوابل الدافئة، مطهي في طاجن طيني.",
+        "price": 1700,
+        "options": [],
         "image": ""
       },
       {
-        "name": "Flat White",
-        "description": "",
-        "price": 300,
+        "name": "Kebab Tajin",
+        "name_ar": "طاجن كباب",
+        "description": "Chunks of beef cooked with caramelized onions baked in a clay pot. Served with rice.",
+        "description_ar": "قطع لحم مطهية مع بصل مكرمل في طاجن طيني، تقدم مع الأرز.",
+        "price": 1600,
+        "options": [],
         "image": ""
       },
       {
-        "name": "Cappuccino",
-        "description": "",
-        "price": 300,
+        "name": "Molokhia Tajin",
+        "name_ar": "طاجن الملوخية",
+        "description": "Chunks of beef and green leaves soup baked in a clay pot. Served with rice or Arabic bread.",
+        "description_ar": "قطع لحم وشوربة ورق الملوخية الخضراء مطهية في طاجن طيني، تقدم مع الأرز أو الخبز العربي.",
+        "price": 1200,
+        "options": [],
         "image": ""
       },
       {
-        "name": "Double Cappuccino",
-        "description": "",
-        "price": 350,
+        "name": "Akawy Tajin",
+        "name_ar": "طاجن عكاوي",
+        "description": "4 pieces of slow-cooked oxtail meat baked in a clay pot. Served with rice.",
+        "description_ar": "٤ قطع من ذيل البقر مطهوة ببطء في طاجن طيني، تقدم مع الأرز.",
+        "price": 1700,
+        "options": [],
         "image": ""
       },
       {
-        "name": "Mocha",
-        "description": "",
-        "price": 350,
+        "name": "Warak Enab with Kaware3",
+        "name_ar": "ورق عنب بالكوارع",
+        "description": "Stuffed vine leaves cooked with cow legs baked in a clay pot.",
+        "description_ar": "أوراق عنب محشوة مطهية مع كوارع البقر في طاجن طيني.",
+        "price": 1600,
+        "options": [],
         "image": ""
       },
       {
-        "name": "Espresso",
-        "description": "",
-        "price": 200,
+        "name": "Warak Lahmah",
+        "name_ar": "ورق لحم",
+        "description": "10 pieces of oven-baked tender beef cooked with bell pepper and onion. Served with rice.",
+        "description_ar": "١٠ قطع من اللحم الطري المطهو في الفرن مع الفلفل الرومي والبصل، تقدم مع الأرز.",
+        "price": 1600,
+        "options": [],
         "image": ""
       },
       {
-        "name": "Double Espresso",
+        "name": "Warak Enab b Akawy Tajin",
+        "name_ar": "ورق عنب بعكاوي",
+        "description": "Stuffed vine leaves cooked with oxtail meat baked in a clay pot.",
+        "description_ar": "أوراق عنب محشوة مطهية مع لحم ذيل البقر في طاجن طيني.",
+        "price": 1900,
+        "options": [],
+        "image": ""
+      },
+      {
+        "name": "Fattah Kaware3",
+        "name_ar": "فتة كوارع",
         "description": "",
-        "price": 300,
+        "description_ar": "",
+        "price": 1500,
+        "options": [],
         "image": ""
       }
     ]
   },
-  "tea": {
-    "name": "Tea",
+  "soups": {
+    "heroImage": "",
+    "name": "Soups",
+    "name_ar": "شوربات",
     "items": [
       {
-        "name": "Hibiscus Tea",
+        "name": "Kaware3 Soup",
+        "name_ar": "شوربة كوارع",
         "description": "",
-        "price": 350,
-        "image": ""
-      },
-      {
-        "name": "Dawa",
-        "description": "",
+        "description_ar": "",
         "price": 400,
-        "image": ""
+        "options": [],
+        "image": "IMG_4454.png"
       },
       {
-        "name": "Masala Tea",
+        "name": "Orzo Soup",
+        "name_ar": "شوربة أورزو",
         "description": "",
-        "price": 350,
-        "image": ""
-      },
-      {
-        "name": "Green Tea",
-        "description": "",
+        "description_ar": "",
         "price": 250,
+        "options": [],
         "image": ""
       },
       {
-        "name": "White Tea",
+        "name": "Lentils Soup",
+        "name_ar": "شوربة عدس",
         "description": "",
+        "description_ar": "",
         "price": 300,
+        "options": [],
+        "image": ""
+      }
+    ]
+  },
+  "sides": {
+    "heroImage": "",
+    "name": "Sides",
+    "name_ar": "أطباق جانبية",
+    "items": [
+      {
+        "name": "Egyptian Rice",
+        "name_ar": "أرز مصري",
+        "description": "",
+        "description_ar": "",
+        "price": 340,
+        "options": [],
+        "image": "DSC00397.png"
+      },
+      {
+        "name": "Egyptian Molokhia",
+        "name_ar": "ملوخية مصرية",
+        "description": "",
+        "description_ar": "",
+        "price": 400,
+        "options": [],
+        "image": "moulukhya.png"
+      },
+      {
+        "name": "Fries",
+        "name_ar": "بطاطس مقلية",
+        "description": "",
+        "description_ar": "",
+        "price": 350,
+        "options": [],
+        "image": "DSC00400.png"
+      },
+      {
+        "name": "Plain Rice",
+        "name_ar": "أرز أبيض",
+        "description": "",
+        "description_ar": "",
+        "price": 320,
+        "options": [],
         "image": ""
       },
       {
-        "name": "Black Spice Tea",
+        "name": "Rice with Liver",
+        "name_ar": "أرز بالكبد",
         "description": "",
-        "price": 250,
+        "description_ar": "",
+        "price": 500,
+        "options": [],
         "image": ""
       },
       {
-        "name": "Black Tea",
+        "name": "Fattah",
+        "name_ar": "فتة",
         "description": "",
+        "description_ar": "",
+        "price": 550,
+        "options": [],
+        "image": ""
+      },
+      {
+        "name": "Cooked Vegetables (Okra, Potatoes or Mixed Vegetables)",
+        "name_ar": "خضروات مطهية (بامية، بطاطس أو خضروات متنوعة)",
+        "description": "",
+        "description_ar": "",
+        "price": 500,
+        "options": [],
+        "image": ""
+      }
+    ]
+  },
+  "salads": {
+    "heroImage": "",
+    "name": "Salads",
+    "name_ar": "سلطات",
+    "items": [
+      {
+        "name": "Baba Ghanouj",
+        "name_ar": "بابا غنوج",
+        "description": "",
+        "description_ar": "",
         "price": 200,
+        "options": [],
+        "image": "DSC00419.png"
+      },
+      {
+        "name": "Tahini Salad",
+        "name_ar": "سلطة الطحينة",
+        "description": "",
+        "description_ar": "",
+        "price": 200,
+        "options": [],
+        "image": "DSC00430.png"
+      },
+      {
+        "name": "Pickled Eggplant",
+        "name_ar": "باذنجان مخلل",
+        "description": "",
+        "description_ar": "",
+        "price": 200,
+        "options": [],
+        "image": "DSC00422.png"
+      },
+      {
+        "name": "Pickled Tomatoes",
+        "name_ar": "طماطم مخللة",
+        "description": "",
+        "description_ar": "",
+        "price": 200,
+        "options": [],
+        "image": "DSC00424.png"
+      },
+      {
+        "name": "Green Salad",
+        "name_ar": "سلطة خضراء",
+        "description": "",
+        "description_ar": "",
+        "price": 200,
+        "options": [],
+        "image": "DSC00415.png"
+      },
+      {
+        "name": "Yoghurt Salad",
+        "name_ar": "سلطة الزبادي",
+        "description": "",
+        "description_ar": "",
+        "price": 200,
+        "options": [],
+        "image": "DSC00432.png"
+      },
+      {
+        "name": "Pickled Beetroot",
+        "name_ar": "شمندر مخلل",
+        "description": "",
+        "description_ar": "",
+        "price": 200,
+        "options": [],
+        "image": "DSC00413.png"
+      },
+      {
+        "name": "Pickles",
+        "name_ar": "مخللات",
+        "description": "",
+        "description_ar": "",
+        "price": 200,
+        "options": [],
+        "image": ""
+      }
+    ]
+  },
+  "vegetarian": {
+    "heroImage": "",
+    "name": "Vegetarian Selection",
+    "name_ar": "أطباق نباتية",
+    "items": [
+      {
+        "name": "Baba Ghanouj",
+        "name_ar": "بابا غنوج",
+        "description": "Smoked eggplant dip with tahini and lemon",
+        "description_ar": "مهروس الباذنجان المدخن مع الطحينة والليمون",
+        "price": 200,
+        "options": [],
+        "image": "DSC00419.png"
+      },
+      {
+        "name": "Tahini Salad",
+        "name_ar": "سلطة الطحينة",
+        "description": "Creamy sesame paste salad",
+        "description_ar": "سلطة الطحينة الكريمية",
+        "price": 200,
+        "options": [],
+        "image": "DSC00430.png"
+      },
+      {
+        "name": "Pickled Eggplant",
+        "name_ar": "باذنجان مخلل",
+        "description": "",
+        "description_ar": "",
+        "price": 200,
+        "options": [],
+        "image": "DSC00422.png"
+      },
+      {
+        "name": "Pickled Tomatoes",
+        "name_ar": "طماطم مخللة",
+        "description": "",
+        "description_ar": "",
+        "price": 200,
+        "options": [],
+        "image": "DSC00424.png"
+      },
+      {
+        "name": "Green Salad",
+        "name_ar": "سلطة خضراء",
+        "description": "Fresh mixed greens",
+        "description_ar": "خضروات طازجة متنوعة",
+        "price": 200,
+        "options": [],
+        "image": "DSC00415.png"
+      },
+      {
+        "name": "Yoghurt Salad",
+        "name_ar": "سلطة الزبادي",
+        "description": "Refreshing yogurt with cucumber and herbs",
+        "description_ar": "زبادي منعش مع الخيار والأعشاب",
+        "price": 200,
+        "options": [],
+        "image": "DSC00432.png"
+      },
+      {
+        "name": "Pickled Beetroot",
+        "name_ar": "شمندر مخلل",
+        "description": "",
+        "description_ar": "",
+        "price": 200,
+        "options": [],
+        "image": "DSC00413.png"
+      },
+      {
+        "name": "Pickles",
+        "name_ar": "مخللات",
+        "description": "Assorted pickled vegetables",
+        "description_ar": "خضروات مخللة متنوعة",
+        "price": 200,
+        "options": [],
+        "image": ""
+      },
+      {
+        "name": "Lentils Soup",
+        "name_ar": "شوربة عدس",
+        "description": "Hearty lentil soup",
+        "description_ar": "شوربة عدس دافئة",
+        "price": 300,
+        "options": [],
+        "image": ""
+      },
+      {
+        "name": "Vegetarian Vine Leaves",
+        "name_ar": "ورق عنب نباتي",
+        "description": "Grape leaves stuffed with rice and herbs",
+        "description_ar": "أوراق العنب محشوة بالأرز والأعشاب",
+        "price": 600,
+        "options": [],
+        "image": ""
+      },
+      {
+        "name": "Vegetarian Mixed Mahashi",
+        "name_ar": "محشي نباتي متنوع",
+        "description": "Assorted vegetables stuffed with rice",
+        "description_ar": "خضروات متنوعة محشوة بالأرز",
+        "price": 600,
+        "options": [],
+        "image": ""
+      },
+      {
+        "name": "Vegetarian Potato Tajin",
+        "name_ar": "طاجن البطاطس النباتي",
+        "description": "Potatoes baked in a clay pot with tomato and spices served with rice.",
+        "description_ar": "بطاطس مطهية في طاجن طيني مع الطماطم والتوابل، تقدم مع الأرز.",
+        "price": 1500,
+        "options": [],
+        "image": "DSC00390.png"
+      },
+      {
+        "name": "Vegetarian Okra Tajin",
+        "name_ar": "طاجن البامية النباتي",
+        "description": "Okra baked in a clay pot with tomato and spices served with rice.",
+        "description_ar": "بامية مطهية في طاجن طيني مع الطماطم والتوابل، تقدم مع الأرز.",
+        "price": 1600,
+        "options": [],
+        "image": "DSC00395.png"
+      },
+      {
+        "name": "Vegetarian Moussaka Tajin",
+        "name_ar": "طاجن المسقعة النباتي",
+        "description": "Slow-cooked eggplant layered with tomatoes and warm spices served with Arabic bread or rice.",
+        "description_ar": "باذنجان مطهو ببطء مع طبقات من الطماطم والتوابل الدافئة، يقدم مع خبز عربي أو أرز.",
+        "price": 1400,
+        "options": [],
+        "image": ""
+      },
+      {
+        "name": "Vegetarian Warak Enab Tajin",
+        "name_ar": "طاجن ورق العنب النباتي",
+        "description": "Stuffed vine leaves baked in a clay pot with herbs and lemon. Served with green salad.",
+        "description_ar": "أوراق عنب محشوة مطهية في طاجن طيني مع الأعشاب والليمون، تقدم مع سلطة خضراء.",
+        "price": 1600,
+        "options": [],
+        "image": ""
+      },
+      {
+        "name": "Vegetarian Molokhia Tajin",
+        "name_ar": "طاجن الملوخية النباتي",
+        "description": "Green leaves soup baked in a clay pot. Served with rice or Arabic bread.",
+        "description_ar": "شوربة ورق الملوخية الخضراء مطهية في طاجن طيني، تقدم مع الأرز أو الخبز العربي.",
+        "price": 1200,
+        "options": [],
+        "image": ""
+      },
+      {
+        "name": "Vegetarian Egyptian Molokhia",
+        "name_ar": "ملوخية مصرية نباتية",
+        "description": "",
+        "description_ar": "",
+        "price": 400,
+        "options": [],
+        "image": "moulukhya.png"
+      },
+      {
+        "name": "Egyptian Rice",
+        "name_ar": "أرز مصري",
+        "description": "",
+        "description_ar": "",
+        "price": 340,
+        "options": [],
+        "image": "DSC00397.png"
+      },
+      {
+        "name": "Fries",
+        "name_ar": "بطاطس مقلية",
+        "description": "",
+        "description_ar": "",
+        "price": 350,
+        "options": [],
+        "image": "DSC00400.png"
+      },
+      {
+        "name": "Plain Rice",
+        "name_ar": "أرز أبيض",
+        "description": "",
+        "description_ar": "",
+        "price": 320,
+        "options": [],
         "image": ""
       }
     ]
   },
   "mocktails": {
+    "heroImage": "",
     "name": "Mocktails",
+    "name_ar": "مشروبات غير كحولية",
     "items": [
       {
         "name": "Citrus Garden",
+        "name_ar": "حديقة الحمضيات",
         "description": "",
+        "description_ar": "",
         "price": 650,
+        "options": [],
         "image": ""
       },
       {
         "name": "Watermelon Refresher",
+        "name_ar": "منعش البطيخ",
         "description": "",
+        "description_ar": "",
         "price": 650,
+        "options": [],
         "image": ""
       },
       {
         "name": "Ginger Peach Smash",
+        "name_ar": "سحق الخوخ والزنجبيل",
         "description": "",
+        "description_ar": "",
         "price": 650,
+        "options": [],
         "image": ""
       },
       {
         "name": "Apple Spice Sparkle",
+        "name_ar": "تفاح توابل لامع",
         "description": "",
+        "description_ar": "",
         "price": 650,
+        "options": [],
         "image": ""
       },
       {
         "name": "Berry Lemonade",
+        "name_ar": "عصير ليمون بالتوت",
         "description": "",
+        "description_ar": "",
         "price": 650,
+        "options": [],
         "image": ""
       },
       {
         "name": "Tropical Fizz",
+        "name_ar": "فوار استوائي",
         "description": "",
+        "description_ar": "",
         "price": 650,
+        "options": [],
         "image": ""
       },
       {
         "name": "Cucumber Cooler",
+        "name_ar": "مبرد الخيار",
         "description": "",
+        "description_ar": "",
         "price": 650,
+        "options": [],
         "image": ""
       },
       {
         "name": "Virgin Mojito",
+        "name_ar": "موهيتو بدون كحول",
         "description": "",
+        "description_ar": "",
         "price": 650,
+        "options": [],
         "image": ""
       }
     ]
   },
   "lemonades": {
+    "heroImage": "",
     "name": "Lemonades",
+    "name_ar": "عصائر ليمون",
     "items": [
       {
         "name": "Strawberry Lemonade",
+        "name_ar": "عصير ليمون بالفراولة",
         "description": "",
+        "description_ar": "",
         "price": 600,
+        "options": [],
         "image": "red.png"
       },
       {
         "name": "Blueberry Lemonade",
+        "name_ar": "عصير ليمون بالتوت الأزرق",
         "description": "",
+        "description_ar": "",
         "price": 600,
+        "options": [],
         "image": "blue.png"
       },
       {
         "name": "Raspberry Lemonade",
+        "name_ar": "عصير ليمون بالتوت الأحمر",
         "description": "",
+        "description_ar": "",
         "price": 600,
+        "options": [],
         "image": ""
       },
       {
         "name": "Classic Lemonade",
+        "name_ar": "عصير ليمون كلاسيكي",
         "description": "",
+        "description_ar": "",
         "price": 600,
+        "options": [],
         "image": ""
       },
       {
         "name": "Kiwi Lemonade",
+        "name_ar": "عصير ليمون بالكيوي",
         "description": "",
+        "description_ar": "",
         "price": 600,
+        "options": [],
         "image": ""
       },
       {
         "name": "Cucumber Mint Lemonade",
+        "name_ar": "عصير ليمون بالخيار والنعناع",
         "description": "",
+        "description_ar": "",
         "price": 600,
+        "options": [],
         "image": ""
       },
       {
         "name": "Lemonade",
+        "name_ar": "عصير ليمون",
         "description": "",
+        "description_ar": "",
         "price": 600,
+        "options": [],
         "image": ""
       }
     ]
   },
   "soft_drinks": {
+    "heroImage": "",
     "name": "Soft Drinks",
+    "name_ar": "مشروبات غازية",
     "items": [
       {
         "name": "Soda (Cola, Sprite, Fanta)",
+        "name_ar": "مشروبات غازية (كولا، سفن أب، فانتا)",
         "description": "",
+        "description_ar": "",
         "price": 200,
+        "options": [],
         "image": ""
       },
       {
         "name": "Still Water 0.5L",
+        "name_ar": "مياه معدنية ٠.٥ لتر",
         "description": "",
+        "description_ar": "",
         "price": 200,
+        "options": [],
         "image": ""
       },
       {
         "name": "Still Water 1L",
+        "name_ar": "مياه معدنية ١ لتر",
         "description": "",
+        "description_ar": "",
         "price": 300,
+        "options": [],
         "image": ""
       },
       {
         "name": "Sparkling Water 0.5L",
+        "name_ar": "مياه فوارة ٠.٥ لتر",
         "description": "",
+        "description_ar": "",
         "price": 300,
+        "options": [],
         "image": ""
       }
     ]
   },
   "fresh_juice": {
+    "heroImage": "",
     "name": "Fresh Juice",
+    "name_ar": "عصائر طازجة",
     "items": [
       {
         "name": "Pineapple Mint",
+        "name_ar": "أناناس بالنعناع",
         "description": "",
+        "description_ar": "",
         "price": 600,
+        "options": [],
         "image": ""
       },
       {
         "name": "Fresh Orange Juice",
+        "name_ar": "عصير برتقال طازج",
         "description": "",
+        "description_ar": "",
         "price": 650,
+        "options": [],
         "image": ""
       }
     ]
   },
   "milkshakes": {
+    "heroImage": "",
     "name": "Milkshakes",
+    "name_ar": "ميلك شيك",
     "items": [
       {
         "name": "Kiwi Milkshake",
+        "name_ar": "ميلك شيك كيوي",
         "description": "",
+        "description_ar": "",
         "price": 650,
+        "options": [],
         "image": ""
       },
       {
         "name": "Peach-Vanilla Milkshake",
+        "name_ar": "ميلك شيك خوخ وفانيليا",
         "description": "",
+        "description_ar": "",
         "price": 650,
+        "options": [],
         "image": ""
       },
       {
         "name": "Strawberry Milkshake",
+        "name_ar": "ميلك شيك فراولة",
         "description": "",
+        "description_ar": "",
         "price": 650,
+        "options": [],
         "image": ""
       },
       {
         "name": "Vanilla Milkshake",
+        "name_ar": "ميلك شيك فانيليا",
         "description": "",
+        "description_ar": "",
         "price": 650,
+        "options": [],
         "image": ""
       }
     ]
   },
-  "desserts": {
-    "name": "Desserts",
+  "coffee": {
+    "heroImage": "",
+    "name": "Coffee",
+    "name_ar": "قهوة",
     "items": [
       {
-        "name": "Cranberry Bread",
+        "name": "Latte",
+        "name_ar": "لاتيه",
         "description": "",
-        "price": 450,
+        "description_ar": "",
+        "price": 350,
+        "options": [],
+        "image": "IMG_4552-2.png"
+      },
+      {
+        "name": "Americano",
+        "name_ar": "أمريكانو",
+        "description": "",
+        "description_ar": "",
+        "price": 300,
+        "options": [],
         "image": ""
       },
       {
-        "name": "Tiramisu",
+        "name": "Flat White",
+        "name_ar": "فلت وايت",
         "description": "",
-        "price": 650,
+        "description_ar": "",
+        "price": 300,
+        "options": [],
         "image": ""
       },
       {
-        "name": "Konafa with Mango",
+        "name": "Cappuccino",
+        "name_ar": "كابتشينو",
         "description": "",
-        "price": 650,
+        "description_ar": "",
+        "price": 300,
+        "options": [],
         "image": ""
       },
       {
-        "name": "Rice Pudding",
+        "name": "Double Cappuccino",
+        "name_ar": "كابتشينو دبل",
         "description": "",
-        "price": 450,
+        "description_ar": "",
+        "price": 350,
+        "options": [],
         "image": ""
       },
       {
-        "name": "Homemade Cheese Cake",
+        "name": "Mocha",
+        "name_ar": "موكا",
         "description": "",
-        "price": 650,
+        "description_ar": "",
+        "price": 350,
+        "options": [],
         "image": ""
       },
       {
-        "name": "Mix Oriental",
+        "name": "Espresso",
+        "name_ar": "إسبريسو",
         "description": "",
-        "price": 500,
+        "description_ar": "",
+        "price": 200,
+        "options": [],
         "image": ""
       },
       {
-        "name": "Balah Elsham",
+        "name": "Double Espresso",
+        "name_ar": "إسبريسو دبل",
         "description": "",
-        "price": 175,
+        "description_ar": "",
+        "price": 300,
+        "options": [],
+        "image": ""
+      }
+    ]
+  },
+  "tea": {
+    "heroImage": "",
+    "name": "Tea",
+    "name_ar": "شاي",
+    "items": [
+      {
+        "name": "Hibiscus Tea",
+        "name_ar": "شاي كركديه",
+        "description": "",
+        "description_ar": "",
+        "price": 350,
+        "options": [],
         "image": ""
       },
       {
-        "name": "Basbosa",
+        "name": "Dawa",
+        "name_ar": "دواء",
         "description": "",
-        "price": 150,
+        "description_ar": "",
+        "price": 400,
+        "options": [],
         "image": ""
       },
       {
-        "name": "Konafa",
+        "name": "Masala Tea",
+        "name_ar": "شاي مسالا",
         "description": "",
-        "price": 150,
+        "description_ar": "",
+        "price": 350,
+        "options": [],
+        "image": ""
+      },
+      {
+        "name": "Green Tea",
+        "name_ar": "شاي أخضر",
+        "description": "",
+        "description_ar": "",
+        "price": 250,
+        "options": [],
+        "image": ""
+      },
+      {
+        "name": "White Tea",
+        "name_ar": "شاي أبيض",
+        "description": "",
+        "description_ar": "",
+        "price": 300,
+        "options": [],
+        "image": ""
+      },
+      {
+        "name": "Black Spice Tea",
+        "name_ar": "شاي أسود بالتوابل",
+        "description": "",
+        "description_ar": "",
+        "price": 250,
+        "options": [],
+        "image": ""
+      },
+      {
+        "name": "Black Tea",
+        "name_ar": "شاي أسود",
+        "description": "",
+        "description_ar": "",
+        "price": 200,
+        "options": [],
         "image": ""
       }
     ]
