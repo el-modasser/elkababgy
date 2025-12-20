@@ -425,24 +425,6 @@
         "image": "DSC00397.png"
       },
       {
-        "name": "Egyptian Molokhia",
-        "name_ar": "ملوخية مصرية",
-        "description": "",
-        "description_ar": "",
-        "price": 400,
-        "options": [],
-        "image": "moulukhya.png"
-      },
-      {
-        "name": "Fries",
-        "name_ar": "بطاطس مقلية",
-        "description": "",
-        "description_ar": "",
-        "price": 350,
-        "options": [],
-        "image": "DSC00400.png"
-      },
-      {
         "name": "Plain Rice",
         "name_ar": "أرز أبيض",
         "description": "",
@@ -459,6 +441,24 @@
         "price": 500,
         "options": [],
         "image": ""
+      },
+      {
+        "name": "Egyptian Molokhia",
+        "name_ar": "ملوخية مصرية",
+        "description": "",
+        "description_ar": "",
+        "price": 400,
+        "options": [],
+        "image": "moulukhya.png"
+      },
+      {
+        "name": "Fries",
+        "name_ar": "بطاطس مقلية",
+        "description": "",
+        "description_ar": "",
+        "price": 350,
+        "options": [],
+        "image": "DSC00400.png"
       },
       {
         "name": "Fattah",
@@ -538,24 +538,6 @@
         "price": 200,
         "options": [],
         "image": "DSC00432.png"
-      },
-      {
-        "name": "Pickled Beetroot",
-        "name_ar": "شمندر مخلل",
-        "description": "",
-        "description_ar": "",
-        "price": 200,
-        "options": [],
-        "image": "DSC00413.png"
-      },
-      {
-        "name": "Pickles",
-        "name_ar": "مخللات",
-        "description": "",
-        "description_ar": "",
-        "price": 200,
-        "options": [],
-        "image": ""
       }
     ]
   },
@@ -565,79 +547,7 @@
     "name_ar": "أطباق نباتية",
     "items": [
       {
-        "name": "Baba Ghanouj",
-        "name_ar": "بابا غنوج",
-        "description": "Smoked eggplant dip with tahini and lemon",
-        "description_ar": "مهروس الباذنجان المدخن مع الطحينة والليمون",
-        "price": 200,
-        "options": [],
-        "image": "DSC00419.png"
-      },
-      {
-        "name": "Tahini Salad",
-        "name_ar": "سلطة الطحينة",
-        "description": "Creamy sesame paste salad",
-        "description_ar": "سلطة الطحينة الكريمية",
-        "price": 200,
-        "options": [],
-        "image": "DSC00430.png"
-      },
-      {
-        "name": "Pickled Eggplant",
-        "name_ar": "باذنجان مخلل",
-        "description": "",
-        "description_ar": "",
-        "price": 200,
-        "options": [],
-        "image": "DSC00422.png"
-      },
-      {
-        "name": "Pickled Tomatoes",
-        "name_ar": "طماطم مخللة",
-        "description": "",
-        "description_ar": "",
-        "price": 200,
-        "options": [],
-        "image": "DSC00424.png"
-      },
-      {
-        "name": "Green Salad",
-        "name_ar": "سلطة خضراء",
-        "description": "Fresh mixed greens",
-        "description_ar": "خضروات طازجة متنوعة",
-        "price": 200,
-        "options": [],
-        "image": "DSC00415.png"
-      },
-      {
-        "name": "Yoghurt Salad",
-        "name_ar": "سلطة الزبادي",
-        "description": "Refreshing yogurt with cucumber and herbs",
-        "description_ar": "زبادي منعش مع الخيار والأعشاب",
-        "price": 200,
-        "options": [],
-        "image": "DSC00432.png"
-      },
-      {
-        "name": "Pickled Beetroot",
-        "name_ar": "شمندر مخلل",
-        "description": "",
-        "description_ar": "",
-        "price": 200,
-        "options": [],
-        "image": "DSC00413.png"
-      },
-      {
-        "name": "Pickles",
-        "name_ar": "مخللات",
-        "description": "Assorted pickled vegetables",
-        "description_ar": "خضروات مخللة متنوعة",
-        "price": 200,
-        "options": [],
-        "image": ""
-      },
-      {
-        "name": "Lentils Soup",
+        "name": "Vegetarian Lentils Soup",
         "name_ar": "شوربة عدس",
         "description": "Hearty lentil soup",
         "description_ar": "شوربة عدس دافئة",
@@ -700,15 +610,6 @@
         "image": ""
       },
       {
-        "name": "Vegetarian Molokhia Tajin",
-        "name_ar": "طاجن الملوخية النباتي",
-        "description": "Green leaves soup baked in a clay pot. Served with rice or Arabic bread.",
-        "description_ar": "شوربة ورق الملوخية الخضراء مطهية في طاجن طيني، تقدم مع الأرز أو الخبز العربي.",
-        "price": 1200,
-        "options": [],
-        "image": ""
-      },
-      {
         "name": "Vegetarian Egyptian Molokhia",
         "name_ar": "ملوخية مصرية نباتية",
         "description": "",
@@ -716,33 +617,6 @@
         "price": 400,
         "options": [],
         "image": "moulukhya.png"
-      },
-      {
-        "name": "Egyptian Rice",
-        "name_ar": "أرز مصري",
-        "description": "",
-        "description_ar": "",
-        "price": 340,
-        "options": [],
-        "image": "DSC00397.png"
-      },
-      {
-        "name": "Fries",
-        "name_ar": "بطاطس مقلية",
-        "description": "",
-        "description_ar": "",
-        "price": 350,
-        "options": [],
-        "image": "DSC00400.png"
-      },
-      {
-        "name": "Plain Rice",
-        "name_ar": "أرز أبيض",
-        "description": "",
-        "description_ar": "",
-        "price": 320,
-        "options": [],
-        "image": ""
       }
     ]
   },
