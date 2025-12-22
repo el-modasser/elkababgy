@@ -1,4 +1,47 @@
 {
+  "offers": {
+    "heroImage": "",
+    "name": "Offers",
+    "name_ar": "عروض",
+    "items": [
+      {
+        "name": "The Ramses Combo",
+        "name_ar": "عرض رمسيس",
+        "description": "Wings + Kofta + Chips + Soda + Salad",
+        "description_ar": "أجنحة دجاج + كفتة + بطاطس مقلية + مشروب غازي + سلطة",
+        "price": 1300,
+        "options": [],
+        "image": ""
+      },
+      {
+        "name": "The Tutankhamun Feast",
+        "name_ar": "وليمة توت عنخ آمون",
+        "description": "Half Chicken + Hawawshi + Salad",
+        "description_ar": "نصف دجاج + حواوشي + سلطة",
+        "price": 1600,
+        "options": [],
+        "image": ""
+      },
+      {
+        "name": "The Cleopatra Meal",
+        "name_ar": "وجبة كليوباترا",
+        "description": "Quarter Chicken + Chips + Soda + Salad",
+        "description_ar": "ربع دجاج + بطاطس مقلية + مشروب غازي + سلطة",
+        "price": 790,
+        "options": [],
+        "image": ""
+      },
+      {
+        "name": "The Royal Platter",
+        "name_ar": "طبق ملكي",
+        "description": "Full Chicken + Large Chips + Salad",
+        "description_ar": "دجاج كامل + بطاطس مقلية كبيرة + سلطة",
+        "price": 2000,
+        "options": [],
+        "image": ""
+      }
+    ]
+  },
   "appetizers": {
     "heroImage": "",
     "name": "Appetizers",
@@ -792,241 +835,3 @@
         "options": [],
         "image": ""
       },
-      {
-        "name": "Still Water 1L",
-        "name_ar": "مياه معدنية ١ لتر",
-        "description": "",
-        "description_ar": "",
-        "price": 300,
-        "options": [],
-        "image": ""
-      },
-      {
-        "name": "Sparkling Water 0.5L",
-        "name_ar": "مياه فوارة ٠.٥ لتر",
-        "description": "",
-        "description_ar": "",
-        "price": 300,
-        "options": [],
-        "image": ""
-      }
-    ]
-  },
-  "fresh_juice": {
-    "heroImage": "",
-    "name": "Fresh Juice",
-    "name_ar": "عصائر طازجة",
-    "items": [
-      {
-        "name": "Pineapple Mint",
-        "name_ar": "أناناس بالنعناع",
-        "description": "",
-        "description_ar": "",
-        "price": 600,
-        "options": [],
-        "image": ""
-      },
-      {
-        "name": "Fresh Orange Juice",
-        "name_ar": "عصير برتقال طازج",
-        "description": "",
-        "description_ar": "",
-        "price": 650,
-        "options": [],
-        "image": ""
-      }
-    ]
-  },
-  "milkshakes": {
-    "heroImage": "",
-    "name": "Milkshakes",
-    "name_ar": "ميلك شيك",
-    "items": [
-      {
-        "name": "Kiwi Milkshake",
-        "name_ar": "ميلك شيك كيوي",
-        "description": "",
-        "description_ar": "",
-        "price": 650,
-        "options": [],
-        "image": ""
-      },
-      {
-        "name": "Peach-Vanilla Milkshake",
-        "name_ar": "ميلك شيك خوخ وفانيليا",
-        "description": "",
-        "description_ar": "",
-        "price": 650,
-        "options": [],
-        "image": ""
-      },
-      {
-        "name": "Strawberry Milkshake",
-        "name_ar": "ميلك شيك فراولة",
-        "description": "",
-        "description_ar": "",
-        "price": 650,
-        "options": [],
-        "image": ""
-      },
-      {
-        "name": "Vanilla Milkshake",
-        "name_ar": "ميلك شيك فانيليا",
-        "description": "",
-        "description_ar": "",
-        "price": 650,
-        "options": [],
-        "image": ""
-      }
-    ]
-  },
-  "coffee": {
-    "heroImage": "",
-    "name": "Coffee",
-    "name_ar": "قهوة",
-    "items": [
-      {
-        "name": "Latte",
-        "name_ar": "لاتيه",
-        "description": "",
-        "description_ar": "",
-        "price": 350,
-        "options": [],
-        "image": "IMG_4552-2.png"
-      },
-      {
-        "name": "Americano",
-        "name_ar": "أمريكانو",
-        "description": "",
-        "description_ar": "",
-        "price": 300,
-        "options": [],
-        "image": ""
-      },
-      {
-        "name": "Flat White",
-        "name_ar": "فلت وايت",
-        "description": "",
-        "description_ar": "",
-        "price": 300,
-        "options": [],
-        "image": ""
-      },
-      {
-        "name": "Cappuccino",
-        "name_ar": "كابتشينو",
-        "description": "",
-        "description_ar": "",
-        "price": 300,
-        "options": [],
-        "image": ""
-      },
-      {
-        "name": "Double Cappuccino",
-        "name_ar": "كابتشينو دبل",
-        "description": "",
-        "description_ar": "",
-        "price": 350,
-        "options": [],
-        "image": ""
-      },
-      {
-        "name": "Mocha",
-        "name_ar": "موكا",
-        "description": "",
-        "description_ar": "",
-        "price": 350,
-        "options": [],
-        "image": ""
-      },
-      {
-        "name": "Espresso",
-        "name_ar": "إسبريسو",
-        "description": "",
-        "description_ar": "",
-        "price": 200,
-        "options": [],
-        "image": ""
-      },
-      {
-        "name": "Double Espresso",
-        "name_ar": "إسبريسو دبل",
-        "description": "",
-        "description_ar": "",
-        "price": 300,
-        "options": [],
-        "image": ""
-      }
-    ]
-  },
-  "tea": {
-    "heroImage": "",
-    "name": "Tea",
-    "name_ar": "شاي",
-    "items": [
-      {
-        "name": "Hibiscus Tea",
-        "name_ar": "شاي كركديه",
-        "description": "",
-        "description_ar": "",
-        "price": 350,
-        "options": [],
-        "image": ""
-      },
-      {
-        "name": "Dawa",
-        "name_ar": "دواء",
-        "description": "",
-        "description_ar": "",
-        "price": 400,
-        "options": [],
-        "image": ""
-      },
-      {
-        "name": "Masala Tea",
-        "name_ar": "شاي مسالا",
-        "description": "",
-        "description_ar": "",
-        "price": 350,
-        "options": [],
-        "image": ""
-      },
-      {
-        "name": "Green Tea",
-        "name_ar": "شاي أخضر",
-        "description": "",
-        "description_ar": "",
-        "price": 250,
-        "options": [],
-        "image": ""
-      },
-      {
-        "name": "White Tea",
-        "name_ar": "شاي أبيض",
-        "description": "",
-        "description_ar": "",
-        "price": 300,
-        "options": [],
-        "image": ""
-      },
-      {
-        "name": "Black Spice Tea",
-        "name_ar": "شاي أسود بالتوابل",
-        "description": "",
-        "description_ar": "",
-        "price": 250,
-        "options": [],
-        "image": ""
-      },
-      {
-        "name": "Black Tea",
-        "name_ar": "شاي أسود",
-        "description": "",
-        "description_ar": "",
-        "price": 200,
-        "options": [],
-        "image": ""
-      }
-    ]
-  }
-}
