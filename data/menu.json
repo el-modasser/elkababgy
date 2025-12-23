@@ -1,47 +1,47 @@
 {
-  "offers": {
-    "heroImage": "",
-    "name": "Offers",
-    "name_ar": "عروض",
-    "items": [
-      {
-        "name": "The Ramses Combo",
-        "name_ar": "عرض رمسيس",
-        "description": "Wings + Kofta + Chips + Soda + Salad",
-        "description_ar": "أجنحة دجاج + كفتة + بطاطس مقلية + مشروب غازي + سلطة",
-        "price": 1300,
-        "options": [],
-        "image": ""
-      },
-      {
-        "name": "The Tutankhamun Feast",
-        "name_ar": "وليمة توت عنخ آمون",
-        "description": "Half Chicken + Hawawshi + Salad",
-        "description_ar": "نصف دجاج + حواوشي + سلطة",
-        "price": 1600,
-        "options": [],
-        "image": ""
-      },
-      {
-        "name": "The Cleopatra Meal",
-        "name_ar": "وجبة كليوباترا",
-        "description": "Quarter Chicken + Chips + Soda + Salad",
-        "description_ar": "ربع دجاج + بطاطس مقلية + مشروب غازي + سلطة",
-        "price": 790,
-        "options": [],
-        "image": ""
-      },
-      {
-        "name": "The Royal Platter",
-        "name_ar": "طبق ملكي",
-        "description": "Full Chicken + Large Chips + Salad",
-        "description_ar": "دجاج كامل + بطاطس مقلية كبيرة + سلطة",
-        "price": 2000,
-        "options": [],
-        "image": ""
-      }
-    ]
-  },
+  // "offers": {
+  //   "heroImage": "",
+  //   "name": "Offers",
+  //   "name_ar": "عروض",
+  //   "items": [
+  //     {
+  //       "name": "The Ramses Combo",
+  //       "name_ar": "عرض رمسيس",
+  //       "description": "Wings + Kofta + Chips + Soda + Salad",
+  //       "description_ar": "أجنحة دجاج + كفتة + بطاطس مقلية + مشروب غازي + سلطة",
+  //       "price": 1300,
+  //       "options": [],
+  //       "image": ""
+  //     },
+  //     {
+  //       "name": "The Tutankhamun Feast",
+  //       "name_ar": "وليمة توت عنخ آمون",
+  //       "description": "Half Chicken + Hawawshi + Salad",
+  //       "description_ar": "نصف دجاج + حواوشي + سلطة",
+  //       "price": 1600,
+  //       "options": [],
+  //       "image": ""
+  //     },
+  //     {
+  //       "name": "The Cleopatra Meal",
+  //       "name_ar": "وجبة كليوباترا",
+  //       "description": "Quarter Chicken + Chips + Soda + Salad",
+  //       "description_ar": "ربع دجاج + بطاطس مقلية + مشروب غازي + سلطة",
+  //       "price": 790,
+  //       "options": [],
+  //       "image": ""
+  //     },
+  //     {
+  //       "name": "The Royal Platter",
+  //       "name_ar": "طبق ملكي",
+  //       "description": "Full Chicken + Large Chips + Salad",
+  //       "description_ar": "دجاج كامل + بطاطس مقلية كبيرة + سلطة",
+  //       "price": 2000,
+  //       "options": [],
+  //       "image": ""
+  //     }
+  //   ]
+  // },
   "appetizers": {
     "heroImage": "",
     "name": "Appetizers",
